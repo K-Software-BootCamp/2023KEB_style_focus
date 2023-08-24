@@ -6,6 +6,7 @@
 ```
 "본 연구는 과학기술정보통신부 및 정보통신기획평가원의 SW전문인재양성사업의 연구결과로 수행되었음"(2022-0-01127)
 ```
+------------
 
 ## 📍프로젝트 주제
 
@@ -33,6 +34,6 @@
 ![image](https://github.com/K-Software-BootCamp/2023KEB_style_focus/assets/105184159/7fd0179c-1ffc-4e53-84fe-d8cf350e97ec)
 
 ## 🌟서비스 설명
-**INPUT** &rarr; 설문 형식의 제품 정보 입력을 통한 keyword input
-**OUTPUT** &rarr; W2V모델을 통한 결과와 분석한 데이터를 output
+- **INPUT** &rarr; 설문 형식의 제품 정보 입력을 통한 keyword input
+- **OUTPUT** &rarr; W2V모델을 통한 결과와 분석한 데이터를 output
 
